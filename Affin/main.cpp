@@ -1,5 +1,5 @@
 #include<iostream>
-#include"Header.h"
+#include"math_fun.h"
 #include "Affin.h"
 using namespace std;
 int main() {
